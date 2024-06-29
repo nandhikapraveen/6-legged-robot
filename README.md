@@ -29,11 +29,6 @@ This project focuses on the development and analysis of a six-legged robot (hexa
 - **MATLAB Code**: Simulates open-loop and closed-loop step responses for different gains.
 - **Output**: Step responses showcase how PD controller gain (k) affects system behavior.
 
-### Problem Statement 6
-**Objective**: Analyze the closed-loop behavior of a system with a PD controller for different gains (k).
-- **MATLAB Code**: Creation of a closed-loop system with PD controller for different gains (k).
-- **Output**: Step responses of the open-loop and closed-loop system for different gains (k).
-
 
 ## Execution and Testing
 Various tests were performed to validate the functionality and stability of the control systems in different scenarios:
